@@ -1,0 +1,60 @@
+{
+  "WBUI2": {
+    "settings": {
+        "OpenButton": 0,
+        "HideIcon": true,
+        "HideIconAfter": 1200,
+        "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+        "DisableIconText": false,
+        "IconPosition": 0,
+        "IconTextColor": 0,
+        "OpenOnStart": true,
+        "OpenOnStartOnlyNewPlayers": true,
+        "UpdateInterval": 12
+      },
+    "tabs": [
+      {
+        "tab1": {
+          "layout": 1,
+          "buttontext": "<RichColor Color=\"1,0,0,1\">Welcome & Rules</>",
+          "title1": "Welcome to the Laokia ARK Server!",
+		  "title2": "Server Rules:",
+          "text1": "Hello, and welcome to the Laokia ARK server!\n\nThis server is currently just a test to see if it is something my sister and I can run without encountering too many issues or being subjected to too much stress.\n\nUnfortunately, at the moment I have a lot of health issues, and I have to be very careful about my stress levels due to that.\n\nI would love to find some great people to just chill and have fun playing ARK with, so please join us if that's something you are interested in!\n\n\nOwner - Ashley / AshCamo / Laokia\nCo-Owner - Donna / Littlebird / Littlebird2424\n\n",
+		  "text2": "- Keep things pleasant so the server is a place to chill and have fun.\n\n- The server may be set to PVP at times for breeding or events; Please respect others and only engage in PVP if it is mutually agreed upon.\n\n- The server discord can be used to get in touch with the server owner.\n\n- The PUBLIC STATUS IS A TEST, and due to the owner's health issues if it causes too much stress the server will be made private.\n\n- We apologize for this! However caution is unfortunately necessary with the current state of her health. Thank you for understanding!\n\n",
+          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+        }
+      },
+      {
+        "tab2": {
+          "layout": 2,
+          "buttontext": "Rates & Events",
+          "title1": "Current Server Rates:",
+          "title2": "Server Events:",
+          "text1": "Singleplayer Settings - On\n\nMax Difficulty - On\n\nMax Wild Dino Levels - 150\n\nStack Size - 5x\n\n\nXP Multiplier - 1.5x\n\nTaming Multiplier - 5x\nPassive Tame Interval - 0.1\nWild Food Drain - 2x\nWild Torpor Drain - 0.5x\n\nHarvesting Multiplier - 3.5x\nHarvest Health - 2x\n\nMating Interval - 0.1\nEgg Hatch Speed - 8x\nBaby Mature Speed - 10x\nImprint Cooldown - 0.01\nImprint Amount - 3x\nImprint Stat Scale - 3x\n\n\nPlayer Stats: Health - 2 / Stamina - 2 / Oxygen - 2 / Food - 5 / Water - 5 / Weight - 10 / Melee - 2 / Crafting - 2 / Fortitude - 2\n\nWild Dino Stats: Health - 1 / Stamina - 2 / Weight - 6 / Damage - 1\n\nTamed Dino Stats: Health - 0.75 / Stamina - 3 / Weight - 6 / Damage - 0.75 / Others - 2\n\nTamed Dino Added Stats: Health - 0.5 / Stamina - 2 / Weight - 6 / Damage - 0.5 / Others - 1.5\n\nTamed Dino Affinity Stats: Health - 1 / Stamina - 4 / Weight - 6 / Damage - 1 / Others - 3\n\n",
+          "text2": "None\n\nTurkey Trial (Official Event)",
+          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+        }
+      }
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "Server Discord",
+          "url": "https://discord.gg/xCdeh4ja"
+        }
+      },
+      {
+        "link2": {
+          "text": "Twitch Channel",
+          "url": "https://www.twitch.tv/ash_camo"
+        }
+      },
+      {
+        "link3": {
+          "text": "Youtube Channel",
+          "url": "https://www.youtube.com/@AshCamo"
+        }
+      }
+    ]
+  }
+}
