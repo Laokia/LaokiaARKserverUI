@@ -15,7 +15,7 @@
     "tabs": [
       {
         "tab1": {
-          "layout": 1,
+          "layout": 2,
           "buttontext": "<RichColor Color=\"1,0,0,1\">Welcome & Rules</>",
           "title1": "Welcome to the Laokia ARK Server!",
 		  "title2": "Server Rules:",
@@ -30,7 +30,7 @@
           "buttontext": "Rates & Events",
           "title1": "Current Server Rates:",
           "title2": "Server Events:",
-          "text1": "Singleplayer Settings - On\n\nMax Difficulty - On\n\nMax Wild Dino Levels - 150\n\nStack Size - 5x\n\n\nXP Multiplier - 1.5x\n\nTaming Multiplier - 5x\nPassive Tame Interval - 0.1\nWild Food Drain - 2x\nWild Torpor Drain - 0.5x\n\nHarvesting Multiplier - 3.5x\nHarvest Health - 2x\n\nMating Interval - 0.1\nEgg Hatch Speed - 8x\nBaby Mature Speed - 10x\nImprint Cooldown - 0.01\nImprint Amount - 3x\nImprint Stat Scale - 3x\n\n\nPlayer Stats: Health - 2 / Stamina - 2 / Oxygen - 2 / Food - 5 / Water - 5 / Weight - 10 / Melee - 2 / Crafting - 2 / Fortitude - 2\n\nWild Dino Stats: Health - 1 / Stamina - 2 / Weight - 6 / Damage - 1\n\nTamed Dino Stats: Health - 0.75 / Stamina - 3 / Weight - 6 / Damage - 0.75 / Others - 2\n\nTamed Dino Added Stats: Health - 0.5 / Stamina - 2 / Weight - 6 / Damage - 0.5 / Others - 1.5\n\nTamed Dino Affinity Stats: Health - 1 / Stamina - 4 / Weight - 6 / Damage - 1 / Others - 3\n\n",
+          "text1": "Singleplayer Settings - On\n\nMax Difficulty - On\n\nMax Wild Dino Levels - 150\n\nStack Size - 5x\n\n\nXP Multiplier - 1.5x\n\nTaming Multiplier - 5x\nPassive Tame Interval - 0.1\nWild Food Drain - 3x\nWild Torpor Drain - 0.5x\n\nHarvesting Multiplier - 3.5x\nHarvest Health - 2x\n\nMating Interval - 0.1\nEgg Hatch Speed - 8x\nBaby Mature Speed - 10x\nImprint Stat Scale - 3x\n\n\nPlayer Stats: Food & Water - 5 / Weight - 10 / Others - 2\n\nWild Dino Stats: Stamina - 2 / Weight - 6 / Others - 1\n\nTamed Dino Stats: Health & Damage - 0.75 / Stamina - 3 / Weight - 6 / Others - 2\n\nTamed Dino Added Stats: Health & Damage - 0.5 / Stamina - 2 / Weight - 6 / Others - 1.5\n\nTamed Dino Affinity Stats: Health & Damage - 1 / Stamina - 4 / Weight - 6 / Others - 3\n\n",
           "text2": "None\n\nTurkey Trial (Official Event)",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
